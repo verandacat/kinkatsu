@@ -197,20 +197,20 @@
                 <p style="text-align:center">
                     <img src="./img/n_img/r_check_01.png" alt="" />
                 </p>
-                <p>初回980円</p>
+                <p>初回980円(税込)</p>
             </td>
             <td>
                 <p style="text-align:center">
                     <img src="./img/n_img/r_check_01.png" alt="" />
                 </p>
-                <span>初回500円</span>
+                <span>初回500円(税込)</span>
             </td>
 
             <td>
                 <p style="text-align:center">
                     <img src="./img/n_img/r_check_01.png" alt="" />
                 </p>
-                <span>初回500円</span>
+                <span>初回500円(税込)</span>
             </td>
         </tr>
 
