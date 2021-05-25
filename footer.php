@@ -47,7 +47,10 @@
           ga('send', 'pageview');
 
         </script>
-
+        
+        <?php if($_GET["pat"] == "a"|| $_GET["pat"] == "" || $_GET["pat"] == "b" || $_GET["pat"] == "c" || $_GET["pat"] == "d" || $_GET["pat"] == "e"|| $_GET["pat"] == "f"|| $_GET["pat"] == "g") : ?>
+        <script type="text/javascript" charset="utf-8" src="https://kenga.tech/pop-ups-ifnqgjyh.js"></script>
+        <?php endif; ?>
 
       </p>
     </div>

@@ -92,9 +92,6 @@
                 <?php }else { ?>
                 <a target="_blank" href="<?php echo $offlink; ?><?php echo "?".$query2; ?>" target="_blank">
                     <?php } ?>
-                    <?php if($i === 1) : ?>
-                    <p class="center"><img src="./img/shino2.jpg" alt=""></p>
-                    <?php endif; ?>
                     <span class="link_txt">
                         <?php echo $catch; ?><?php echo date("n"); ?>月の特別キャンペーンページはこちら</span>
                 </a>

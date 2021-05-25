@@ -101,9 +101,6 @@
                     target="_blank">
                     <?php } ?>
 
-                    <?php if($i === 1) : ?>
-                    <p class="center"><img src="./img/shino2.jpg" alt=""></p>
-                    <?php endif; ?>
                     <span class="link_small">&gt;&gt;&gt;
                         <b><?php echo $catch; ?><?php echo date("n"); ?>月の特別キャンペーンページはこちら</b>
                     </span>
