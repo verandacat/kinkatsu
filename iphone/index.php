@@ -18,8 +18,6 @@ include_once('./index_g.php');
 include_once('./index_h.php');
 }elseif($_GET['pat'] == "i"){
 include_once('./index_i.php');
-}elseif($_GET['pat'] == "j"){
-include_once('./index_j.php');
 }else{
 include_once('./index_a.php');
 }
