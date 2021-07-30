@@ -34,10 +34,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <meta name="keywords" content="" />
   <meta name="description" content="" />
   <!-- <link rel="stylesheet" href="./styles.css" type="text/css" /> -->
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
   <link rel="stylesheet" href="./css/textstyles.css" type="text/css" />
-  <link rel="stylesheet" href="./n_styles.css" type="text/css" />
+  <link rel="stylesheet" href="./n_styles.css?<?php echo the_time(); ?>" type="text/css" />
   <link href="https://fonts.googleapis.com/earlyaccess/sawarabigothic.css" rel="stylesheet" />
   <style>
   label#c1 input[type="checkbox"] {

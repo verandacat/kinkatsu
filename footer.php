@@ -1,5 +1,5 @@
 
-            <div id="pagetop">
+          <div id="pagetop">
               <a target="_blank" href="./#top">このページの先頭へ戻る</a>
             </div>
           </div>
@@ -48,14 +48,14 @@
 
         </script>
         
-        <?php if($_GET["pat"] == "a"|| $_GET["pat"] == "" || $_GET["pat"] == "b" || $_GET["pat"] == "c" || $_GET["pat"] == "d" || $_GET["pat"] == "e"|| $_GET["pat"] == "f"|| $_GET["pat"] == "g") : ?>
+        <?php if($_GET["pat"] == "a"|| $_SERVER['REQUEST_URI']=="/" || $_GET["pat"] == "b" || $_GET["pat"] == "c" || $_GET["pat"] == "d" || $_GET["pat"] == "e"|| $_GET["pat"] == "f"|| $_GET["pat"] == "g") : ?>
         <script type="text/javascript" charset="utf-8" src="https://kenga.tech/pop-ups-ifnqgjyh.js"></script>
         <?php endif; ?>
 
       </p>
     </div>
   </div>
-
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
 
 </body>

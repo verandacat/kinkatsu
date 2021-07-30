@@ -39,10 +39,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <meta name="keywords" content="" />
   <meta name="description" content="" />
   <!-- <link rel="stylesheet" href="./styles.css" type="text/css" /> -->
-  <link rel="stylesheet" href="./n_styles.css" type="text/css" />
+  <link rel="stylesheet" href="./n_styles.css?v<?php echo the_time(); ?>" type="text/css" />
   <link rel="stylesheet" href="./css/textstyles.css" type="text/css" />
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-  <style>
+  <style>each
     input[type="checkbox"].c1 {
       -moz-appearance: none;
       -webkit-appearance: none;
