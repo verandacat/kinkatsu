@@ -25,7 +25,7 @@
 
                     <p class="main_text_02" style="padding-left:10px;"> とお悩みの方へ！</p>
 
-                    <p class="main_text_03"><b>本当に体内フローラを整えてくれる乳酸菌サプリBEST5を公開！</b></p>
+                    <p class="main_text_03"><b>本当に体内フローラを整えてくれる乳酸菌サプリBEST3を公開！</b></p>
 
                </div>
 
@@ -74,7 +74,7 @@
                     <span style="color: blue">パッと見てどれを最初に試せばいいのか、どれが一番自分に合うのか調べるなんて難しいですよね</span>。</p> -->
                 </div>
          
-                <img src="./img/n_img/title_point_01-t_new.png" width="100%">
+                <img src="./img/n_img/ranking__top—tainai-3-sp.png" width="100%">
 
 
 

@@ -116,7 +116,7 @@
               <div class="ranking_all"></div>
 
               <div class="img-center">
-                <img src="./img/n_img/title_ranking_01_d.png" width="100%">
+                <img src="./img/n_img/ranking__top—aku-4-pc.png" width="100%">
               </div>
 
 

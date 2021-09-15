@@ -28,7 +28,7 @@
                   <p class="main_text_01">「体の内側から健康になりたい」</p>
                   <p class="main_text_01">「体内フローラを整えたい」</p>
                   <p class="main_text_01">「効率よく乳酸菌を摂りたい」</p>
-                  <p class="main_text_03"><b>本当に体内フローラを整えてくれる<br>乳酸菌サプリBEST5を公開！</b></p>
+                  <p class="main_text_03"><b>本当に体内フローラを整えてくれる<br>乳酸菌サプリBEST3を公開！</b></p>
 
                   <span style="color:red; font-weight: bold;"
                                     class="mk">最近、様々な雑誌やテレビで注目されている体内フローラ。</span><br>
@@ -120,7 +120,7 @@
               -->
 
               <div class="img-center">
-                <img src="./img/n_img/title_ranking_01_g.png" width="100%">
+                <img src="./img/n_img/ranking__top—tainai-3-sp.png" width="100%">
               </div>
 
 

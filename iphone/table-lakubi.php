@@ -70,15 +70,15 @@
 
             <th style="background-color: #fff">
                 <p style="text-align:center">
-                    <a target="_blank" href="http://xn--hdks4057bh4s.net/links/beqtto.php<?php echo "?" . $query2; ?>">
-                        <img src="./img/beqtto.jpg" alt="" width="170" />
+                    <a target="_blank" href="http://xn--hdks4057bh4s.net/links/llulu.php<?php echo "?" . $query2; ?>">
+                        <img src="./img/llulu.png" alt="" width="170" />
                     </a>
                 </p>
                 <p style="text-align:center">
                     <strong>
                         <span style="font-size:13px" class="lbg">
                             <a target="_blank"
-                                href="http://xn--hdks4057bh4s.net/links/beqtto.php<?php echo "?" . $query2; ?>">リキュット</a>
+                                href="http://xn--hdks4057bh4s.net/links/llulu.php<?php echo "?" . $query2; ?>">ラクルル</a>
                         </span>
                     </strong>
                 </p>
@@ -110,9 +110,9 @@
                     
             <td>
                 <p style="text-align:center">
-                    <img src="./img/n_img/r_check_02.png" alt="" />
+                    <img src="./img/n_img/r_check_01.png" alt="" />
                 </p>
-                <span>29種の乳酸菌</span>
+                <span>トリプル乳酸菌9000億</span>
             </td>
         </tr>
 
@@ -143,7 +143,7 @@
                 <p style="text-align:center">
                     <img src="./img/n_img/r_check_02.png" alt="" />
                 </p>
-                <span>熱や胃酸に強い有胞子性乳酸菌</span>
+                <span>酪酸菌を採用</span>
             </td>
         </tr>
 
@@ -177,7 +177,7 @@
                 <p style="text-align:center">
                     <img src="./img/n_img/r_check_02.png" alt="" />
                 </p>
-                <span>有胞子性乳酸菌・酪酸菌・酵素など</span>
+                <span>スポルス、植物性ナノ型乳酸菌SNK、ヘルパー乳酸菌など</span>
             </td>
         </tr>
 
@@ -210,7 +210,7 @@
                 <p style="text-align:center">
                     <img src="./img/n_img/r_check_01.png" alt="" />
                 </p>
-                <span>初回500円(税込)</span>
+                <span>初回498円(税込)</span>
             </td>
         </tr>
 
@@ -249,7 +249,7 @@
 
             <td>
                 <p style="text-align:center">
-                    <a target="_blank" href="http://xn--hdks4057bh4s.net/links/beqtto.php<?php echo "?" . $query2; ?>">
+                    <a target="_blank" href="http://xn--hdks4057bh4s.net/links/llulu.php<?php echo "?" . $query2; ?>">
                         <img src="./img/n_img/btn_site_go_s.png" alt=""  width="160">
                     </a>
                 </p>

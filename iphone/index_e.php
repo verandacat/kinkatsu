@@ -21,7 +21,7 @@
                   <p class="main_text_01">「便秘を解消したい！」</p>
                   <p class="main_text_01">「薬で一時的になんとかはしたくない」</p>
                   <p class="main_text_01">「溜め体質をなんとかしたい･･･」</p>
-                  <p class="main_text_03"><b>本当に腸内フローラを整えてくれる<br>腸内スッキリサプリBEST5を公開！</b></p>
+                  <p class="main_text_03"><b>本当に腸内フローラを整えてくれる<br>腸内スッキリサプリBEST4を公開！</b></p>
                   <br>
 
                   <span style="color:red; font-weight: bold;">
@@ -115,7 +115,7 @@
               -->
 
               <div class="img-center">
-                <img src="./img/n_img/title_ranking_01_e.png" width="100%">
+                <img src="./img/n_img/ranking__top—tame-4-sp.png" width="100%">
               </div>
 
 

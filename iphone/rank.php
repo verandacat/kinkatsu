@@ -120,7 +120,11 @@
                         <td><?php echo $rprice; ?></td>
                         <td><?php echo $amount; ?></td>
                         <td>
-                          <img src="<?php echo $star; ?>" alt="点数" >
+                            <?php if($post->ID == 616) : ?>
+                            <img src="https://xn--hdks4057bh4s.net/w/wp-content/uploads/2019/08/review_4.gif" alt="点数" >
+                            <?php else : ?>
+                            <img src="<?php echo $star; ?>" alt="点数" >
+                            <?php endif; ?>
                         </td>
                       </tr>
                       <tr>

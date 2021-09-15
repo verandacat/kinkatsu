@@ -26,7 +26,7 @@
                     <p class="main_text_01">「便秘を解消してスッキリしたい」</p>
                     <p class="main_text_01">「デブ菌(悪玉菌)を減らして病気を予防したい」</p>
                     <p class="main_text_02" style="padding-left:10px;"> とお悩みの方へ！</p>
-                    <p class="main_text_03"><b>本当に腸内フローラを整えてくれるやせ菌サプリBEST5を公開！</b></p>
+                    <p class="main_text_03"><b>本当に腸内フローラを整えてくれるやせ菌サプリBEST4を公開！</b></p>
 
 
                 <div class="point_txt_top">
@@ -121,7 +121,7 @@
               <div class="ranking_all"></div>
 
               <div class="img-center">
-                <img src="./img/n_img/title_ranking_01_c.png" width="100%">
+                <img src="./img/n_img/ranking__top—debu-4-pc.png" width="100%">
               </div>
 
 
