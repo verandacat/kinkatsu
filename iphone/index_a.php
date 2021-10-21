@@ -20,12 +20,12 @@
 
                 <div id="text1">
 
-                    <p class="main_text_01">「体内フローラを整えて、スッキリ美ボディになりたい」</p>
+                    <p class="main_text_01">「体内環境を見直して、スッキリ美ボディになりたい」</p>
                     <p class="main_text_01">「毎朝の重苦しい悩みを解消してスッキリしたい」</p>
 
                     <p class="main_text_02" style="padding-left:10px;"> とお悩みの方へ！</p>
 
-                    <p class="main_text_03"><b>本当に体内フローラを整えてくれる乳酸菌サプリBEST3を公開！</b></p>
+                    <p class="main_text_03"><b>本当に体内フローラをサポートしてくれるサプリBEST3を公開！</b></p>
 
                </div>
 
@@ -41,7 +41,7 @@
                   なので、 <span style="color:red;font-weight: bold;">サプリメントを<span class="mk">毎日摂取する</span>のがおすすめ</span>です！
                   <br><br>
                   ですが、サプリメントによって品質はまちまち。<br>
-                  <span style="color:blue;font-weight: bold;">「乳酸菌が配合されていればなんでも同じ」って安易に選んで失敗したら意味がありません…。</span>
+                  <span style="color:blue;font-weight: bold;">「菌が配合されていればなんでも同じ」って安易に選んで失敗したら意味がありません…。</span>
 　　　　　　　　　　　　<br><br>
 
                   <!-- <h3><span>重要な4つのポイント！大事なのはどんな乳酸菌サプリを選ぶか</span></h3> -->
@@ -74,7 +74,7 @@
                     <span style="color: blue">パッと見てどれを最初に試せばいいのか、どれが一番自分に合うのか調べるなんて難しいですよね</span>。</p> -->
                 </div>
          
-                <img src="./img/n_img/ranking__top—tainai-3-sp.png" width="100%">
+                <img src="./img/n_img/title_point_01-t_new.png" width="100%">
 
 
 
@@ -95,21 +95,21 @@
 
                 <div class="point_txt_middle">
 
-                    <p>乳酸菌サプリメントを選ぶ際のポイントをまとめてみました。<br><br>
+                    <p>サプリメントを選ぶ際のポイントをまとめてみました。<br><br>
 
-                    上記の <span style="color:red;font-weight: bold;">４つのポイントを満たした乳酸菌サプリメントを選ぶのがおすすめ</span>です。<br><br>
+                    上記の <span style="color:red;font-weight: bold;">４つのポイントを満たしたサプリメントを選ぶのがおすすめ</span>です。<br><br>
                       
-                      しかし、ドラッグストアやネット上で探せば<span style="color:blue;font-weight: bold;"><span class="mk">サプリメントは星の数ほど。</span></span><br><br>
-                      <b>それをすべて自分で試すわけにはいきませんよね？</b><br>
-                      どれが一番自分に合うのか調べるなんて難しいのが現実です。<br><br>
-                      
-                      そこで上記のチェック項目を元に<span style="color:red;font-weight: bold;">
-                      「本当に飲んで満足できる乳酸菌サプリメント」</span>を当サイトが独自調査しました。<br><br>
-                      調査の結果選ばれた<span class="mk" style="font-weight: bold;"><br>利用者からの満足度が高い優良乳酸菌サプリメントを発表</span>いたしますので、<br><br>
-                      この中から<span style="text-decoration: underline;font-weight: bold;">自分に合った乳酸菌サプリメントを選んでください。</span><br><br>
-                      <span style="color:blue;font-weight: bold;">
-                      明日から変わり始めるあなたの健康生活のお手伝いをしてくれますので是非その満足度を体験してください！</span>
-                      <br><br>
+                    しかし、ドラッグストアやネット上で探せば<span style="color:blue;font-weight: bold;"><span class="mk">サプリメントは星の数ほど。</span></span><br><br>
+                    <b>それをすべて自分で試すわけにはいきませんよね？</b><br>
+                    どれが一番自分に合うのか調べるなんて難しいのが現実です。<br><br>
+                    
+                    そこで上記のチェック項目を元に<span style="color:red;font-weight: bold;">
+                    「本当におすすめの体内フローラサポートサプリメント」</span>を当サイトが独自調査しました。<br>
+                    調査の結果選ばれた<span class="mk" style="font-weight: bold;">利用者からの満足度が高い優良サプリメントを発表</span>いたしますので、<br>
+                    この中から<span style="text-decoration: underline;font-weight: bold;">自分に合ったサプリメントを選んでください。</span>
+                    <span style="color:blue;font-weight: bold;">
+                    明日から変わり始めるあなたの健康生活のお手伝いをしてくれますので是非その満足度を体験してください！</span>
+                    <br><br>
                       
                     </p>
 
@@ -145,7 +145,7 @@
               -->
 
               <div class="img-center">
-                <img src="./img/n_img/title_ranking_01-t_new.png" width="100%">
+                <img src="./img/n_img/ranking__top—tainai-3-sp.png" width="100%">
               </div>
 
                <?php include_once("rank-lakubi.php"); ?>

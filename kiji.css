@@ -80,3 +80,8 @@
     box-shadow: 0 2px 0 0 rgba(0,0,0,0.2), inset 0 0 0 2px darkgreen, inset 0 0 0 4px white;
     text-decoration: none;
 }
+.footer .inner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

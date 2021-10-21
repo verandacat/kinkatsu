@@ -133,7 +133,13 @@
                     <tr>
                         <td><?php echo $type; ?></td>
                         <td><?php echo $quantity; ?></td>
-                        <td><?php echo $dayprice; ?></td>
+                        <td>
+                            <?php if($i == 1) : ?>
+                            約<?php echo $dayprice; ?>    
+                            <?php else : ?>
+                            <?php echo $dayprice; ?>
+                            <?php endif; ?>
+                        </td>
                     </tr>
 
                 </tbody>

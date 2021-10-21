@@ -4,7 +4,7 @@
 <div id="wrapper">
     <div class="inner">
         <span class="img-center">
-            <img src="./img/n_img/top_banner_01_new_f.png" width="100%" />
+            <img src="./img/n_img/top_banner_01-t_new.png" width="100%" />
         </span>
 
         <div>
@@ -26,9 +26,9 @@
 
                                 <p class="main_text_01">「体の内側から健康になりたい」</p>
                                 <p class="main_text_01">「体内フローラを整えたい」</p>
-                                <p class="main_text_01">「効率よく乳酸菌を摂りたい」</p>
+                                <p class="main_text_01">「効率よく菌を摂りたい」</p>
                                 <!-- <p class="main_text_02" style="padding-left:10px;"> とお悩みの方へ！</p> -->
-                                <p class="main_text_03"><b>本当に体内フローラを整えてくれる乳酸菌サプリBEST3を公開！</b></p>
+                                <p class="main_text_03"><b>本当に体内フローラをサポートしてくれるサプリBEST3を公開！</b></p>
 
                                 <span style="color:red; font-weight: bold;"
                                     class="mk">最近、様々な雑誌やテレビで注目されている体内フローラ。</span><br>
@@ -48,7 +48,7 @@
 
                                 ですが、サプリメントによって品質はまちまち。<br>
                                 <span style="color:red;font-weight: bold;">
-                                    「乳酸菌が配合されていればなんでも同じ」って安易に選んで失敗したら意味がありません…。</span><br><br>
+                                    「菌が配合されていればなんでも同じ」って安易に選んで失敗したら意味がありません…。</span><br><br>
                             </div>
 
                             <img src="./img/n_img/title_point_01-t_new.png" width="100%">
@@ -73,9 +73,9 @@
                                 </li>
                             </ul>
                             <p>&nbsp;</p>
-                            <p>そこで上記のチェック項目を元に「本当に飲んで満足できる乳酸菌サプリメント」を当サイトが独自調査しました。調査の結果選ばれた
-                                <span class="mk">利用者からの満足度が高い優良乳酸菌サプリメントを発表</span>いたしますので、この中から
-                                <u>自分に合った乳酸菌サプリメントを選んでください</u>。</p>
+                            <p>そこで上記のチェック項目を元に「本当に飲んで満足できるサプリメント」を当サイトが独自調査しました。調査の結果選ばれた
+                                <span class="mk">利用者からの満足度が高い優良サプリメントを発表</span>いたしますので、この中から
+                                <u>自分に合ったサプリメントを選んでください</u>。</p>
                             <p>&nbsp;</p>
                             <p>
                                 <strong>

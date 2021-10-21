@@ -4,7 +4,7 @@
   <div id="wrapper">
     <div class="inner">
       <span class="img-center">
-        <img src="./img/n_img/top_banner_01_new_f.png" width="100%" />
+        <img src="./img/n_img/top_banner_01-t_new.png" width="100%" />
         
 
         <div style="padding:10px 0 0;">
@@ -26,13 +26,12 @@
                   <p class="main_text_01">「内から環境を整えて美肌になりたい」</p>
                   <p class="main_text_02" style="padding-left:10px;"> とお悩みの方へ！</p>
 
-                  <p class="main_text_03"><b>本当にスッキリさせてくれる体内フローラサプリBEST3を公開！</b></p>
+                  <p class="main_text_03"><b>本当に体内フローラをサポートしてくれるBEST3を公開！</b></p>
                   </div>
 
                   <div class="point_txt_top">
 
-                  
-
+              
                   <span style="color:red; font-weight: bold;">菌活をする人が今、増えています。</span>
                   悪玉菌を減らし、善玉菌を増やすことが
                   <span style="color:red;font-weight: bold;" class="mk"> “体内フローラ”</span>のバランスを整え、
@@ -48,7 +47,7 @@
                   <br><br>
 
                   ですが、サプリメントによって品質はまちまち。
-                  <span style="color:blue;font-weight: bold;">「乳酸菌が配合されていればなんでも同じ」って
+                  <span style="color:blue;font-weight: bold;">「菌が配合されていればなんでも同じ」って
                       安易に選んで失敗したら意味がないですよね。</span>
 
 
@@ -76,9 +75,9 @@
 
                 <div class="point_txt_middle">
                   <p>&nbsp;</p>
-                  <p>そこで上記のチェック項目を元に「本当に飲んで満足できる乳酸菌サプリメント」を当サイトが独自調査しました。調査の結果選ばれた
-                  <span class="mk">利用者からの満足度が高い優良乳酸菌サプリメントを発表</span>いたしますので、この中から
-                  <u>自分に合った乳酸菌サプリメントを選んでください</u>。</p>
+                  <p>そこで上記のチェック項目を元に「本当に飲んで満足できるサプリメント」を当サイトが独自調査しました。調査の結果選ばれた
+                  <span class="mk">利用者からの満足度が高い優良サプリメントを発表</span>いたしますので、この中から
+                  <u>自分に合ったサプリメントを選んでください</u>。</p>
                   <p>&nbsp;</p>
                   <p>
                     <strong>

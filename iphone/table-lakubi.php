@@ -91,7 +91,7 @@
         <tr>
             <td style="background-color:#7edcd6;vertical-align:middle;">
                 <p style="text-align: center">
-                    <strong>乳酸菌の質</strong>
+                    <strong>菌の質</strong>
                 </p>
             </td>
             <td>
@@ -197,7 +197,7 @@
                 <p style="text-align:center">
                     <img src="./img/n_img/r_check_01.png" alt="" />
                 </p>
-                <p>初回980円(税込)</p>
+                <p>定期初回980円(税込)</p>
             </td>
             <td>
                 <p style="text-align:center">
