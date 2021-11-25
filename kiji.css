@@ -85,3 +85,30 @@
     justify-content: center;
     align-items: center;
 }
+
+#footer .inner-links {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#footer .inner-links a {
+    margin-right: 10px;
+    padding-right: 10px;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+#footer .inner-links a:after {
+    content: "|";
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+#footer .inner-links a:last-child {
+    margin-right: 0;
+    padding-right: 0;
+}
+#footer .inner-links a:last-child:after {
+    display: none;
+}

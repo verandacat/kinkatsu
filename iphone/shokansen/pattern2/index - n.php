@@ -1,8 +1,4 @@
-<?php 
-include_once($_SERVER[DOCUMENT_ROOT].'/w/wp-load.php');
-$search = array('?f=index.php&','?f=index.php');
-$query2 = str_replace($search, '', $query);
-?>
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
 
@@ -68,12 +64,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
 
         <div class="right text-box">
-            <a style="color:#4887d9; text-decoration: underline; line-height: 1.6" class="font16" href="https://xn--hdks4057bh4s.net/links/bouhu-lp.php<?php echo "?".$query2; ?>" target="_blank">定期コースなら初回限定50％OFF＋送料無料</a><br />
-            <a style="color:#4887d9; text-decoration: underline; line-height: 1.6" class="font16" href="https://xn--hdks4057bh4s.net/links/bouhu-lp.php<?php echo "?".$query2; ?>" target="_blank">→ 公式サイトでお得に購入する</a>
-        </div>
-
-       <div>
-            <?php get_search_form(); ?>
+            <a style="color:#4887d9; text-decoration: underline; line-height: 1.6" class="font16" href="https://jf-d.jp/lp/shokansen_ig_y_coupon/?argument=acrYmmnJ&dmai=wbo_DGAF_0036"  target="_blank">定期コースなら初回限定50％OFF＋送料無料</a><br />
+            <a style="color:#4887d9; text-decoration: underline; line-height: 1.6" class="font16" href="https://jf-d.jp/lp/shokansen_ig_y_coupon/?argument=acrYmmnJ&dmai=wbo_DGAF_0036"  target="_blank">→ 公式サイトでお得に購入する</a>
         </div>
 
         <h2 class="midashi-h2-03">こんなことで悩んでいませんか？</h2>
@@ -103,7 +95,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <div class="button">
             <p class="center font13 bold">＼定期コースなら初回限定50％OFF＋送料無料／</p>
-            <a href="https://xn--hdks4057bh4s.net/links/bouhu-lp.php<?php echo "?" . $query2; ?>">公式サイトでお得に購入する<i
+            <a href="https://jf-d.jp/lp/shokansen_ig_y_coupon/?argument=acrYmmnJ&dmai=wbo_DGAF_0036"  target="_blank">公式サイトでお得に購入する<i
                     class="fas fa-arrow-circle-right"></i></a>
         </div>
 
@@ -126,7 +118,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <div class="button">
             <p class="center font13 bold">＼定期コースなら初回限定50％OFF＋送料無料／</p>
-            <a href="https://xn--hdks4057bh4s.net/links/bouhu-lp.php<?php echo "?" . $query2; ?>">公式サイトでお得に購入する<i
+            <a href="https://jf-d.jp/lp/shokansen_ig_y_coupon/?argument=acrYmmnJ&dmai=wbo_DGAF_0036"  target="_blank">公式サイトでお得に購入する<i
                     class="fas fa-arrow-circle-right"></i></a>
         </div>
 
@@ -186,7 +178,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <h3 class="midashi-h3-01">（４）メディアに多数掲載！芸能人も注目！</h3>
             <img src="https://xn--hdks4057bh4s.net/img/kiji/image7.png" alt="">
 
-            <p>女優の神田うのさん、井上和香さんなど、数多くの芸能人も注目している！</p>
+            <p>女優の神田うのさん、井上和香さん、青木英李さんなど、数多くの芸能人も注目している！</p>
             <p>TV、雑誌など多数メディアにも掲載されている今話題の漢方薬が『生漢煎「防風通聖散」』です♪</p>
             <p>&nbsp;</p>
 
@@ -210,7 +202,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <div class="button">
             <p class="center font13 bold">＼定期コースなら初回限定50％OFF＋送料無料／</p>
-            <a href="https://xn--hdks4057bh4s.net/links/bouhu-lp.php<?php echo "?" . $query2; ?>">公式サイトでお得に購入する<i
+            <a href="https://jf-d.jp/lp/shokansen_ig_y_coupon/?argument=acrYmmnJ&dmai=wbo_DGAF_0036"  target="_blank">公式サイトでお得に購入する<i
                     class="fas fa-arrow-circle-right"></i></a>
         </div>
 
@@ -293,7 +285,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <div class="button">
             <p class="center font13 bold">＼定期コースなら初回限定50％OFF＋送料無料／</p>
-            <a href="https://xn--hdks4057bh4s.net/links/bouhu-lp.php<?php echo "?" . $query2; ?>">公式サイトでお得に購入する<i
+            <a href="https://jf-d.jp/lp/shokansen_ig_y_coupon/?argument=acrYmmnJ&dmai=wbo_DGAF_0036"  target="_blank">公式サイトでお得に購入する<i
                     class="fas fa-arrow-circle-right"></i></a>
         </div>
 
@@ -347,7 +339,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <div class="button">
             <p class="center font13 bold">＼定期コースなら初回限定50％OFF＋送料無料／</p>
-            <a href="https://xn--hdks4057bh4s.net/links/bouhu-lp.php<?php echo "?" . $query2; ?>">公式サイトでお得に購入する<i
+            <a href="https://jf-d.jp/lp/shokansen_ig_y_coupon/?argument=acrYmmnJ&dmai=wbo_DGAF_0036"  target="_blank">公式サイトでお得に購入する<i
                     class="fas fa-arrow-circle-right"></i></a>
         </div>
 
@@ -357,15 +349,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="menubox">
             <ul id="menu1">
                 <li>
-                    <a href="https://xn--hdks4057bh4s.net/unei.php">運営者情報</a>
+                    <a href="https://jfrontier.jp/">会社概要</a>
                 </li>
                 <li>
-                    <a href="https://xn--hdks4057bh4s.net/entry4.php">ランキング調査概要</a>
+                    <a href="https://jf-d.jp/shop/pages/privacy.html">プライバシーポリシー</a>
                 </li>
                 <li>
-                    <a href="https://xn--hdks4057bh4s.net/privacy.php">プライバシーポリシー</a>
+                    <a href="https://jf-d.jp/shop/pages/legal.html">特定商取引法に基づく表示</a>
                 </li>
             </ul>
+           
         </div>
     </div>
     
@@ -395,6 +388,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         </div>
     </div>
+
     <!-- FontAwesome -->
 	<script src="https://kit.fontawesome.com/339539da33.js" crossorigin="anonymous"></script>
 

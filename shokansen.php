@@ -300,9 +300,15 @@
 
     </section>
 
+    
+
     <div id="footer">
         <div class="inner">
-            <p id="footsub"></p>
+            <div class="inner-links">
+                <a href="https://xn--hdks4057bh4s.net/unei.php">運営者情報</a>
+                <a href="https://xn--hdks4057bh4s.net/entry4.php">ランキング調査概要</a>
+                <a href="https://xn--hdks4057bh4s.net/privacy.php">プライバシーポリシー</a>
+            </div>
             <p>Copyright (C) 2018 優良乳酸菌サプリメントをご紹介All Rights Reserved.</p>
         </div>
     </div>
