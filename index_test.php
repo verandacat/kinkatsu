@@ -4,7 +4,7 @@
   <div id="wrapper">
     <div class="inner">
       <span class="img-center">
-        <img src="./img/n_img/top_banner_01-t_new.png" width="100%" />
+        <img src="./img/n_img/top_banner_01-t_new-test.png" width="100%" />
       </span>
 
       <div>
@@ -22,30 +22,30 @@
               <div id="text1">
 
 
-                    <p class="main_text_01">「体内フローラを整えて、スッキリ美ボディになりたい」</p>
+              <p class="main_text_01">「体内環境を見直して、スッキリ美ボディになりたい」</p>
                     <p class="main_text_01">「毎朝の重苦しい悩みを解消してスッキリしたい」</p>
 
                     <p class="main_text_02" style="padding-left:10px;"> とお悩みの方へ！</p>
 
-                    <p class="main_text_03"><b>本当に体内フローラを整えてくれる乳酸菌サプリBEST5を公開！</b></p>
+                    <p class="main_text_03"><b>本当に体内フローラを<br>サポートしてくれるサプリおすすめ3選を公開！</b></p>
 
 
-                <div class="point_txt_top">
+                    <div class="point_txt_top">
 
-                        <span style="color:red;">菌活をする女性がいま増えています。</span>
+                    <span style="color:red;">菌活をする女性がいま増えています。</span>
 
-                        <b>善玉菌を増やし、</b>
-                        <span style="color:red;font-weight: bold;" class="mk">“体内フローラ”のバランスを
-                            整えることがスッキリ美ボディや美容、健康のために大事</span>なのはもはや常識ですよね！
-                        <br><br>
-                        <b>“体内フローラ”を整えるビフィズス菌や乳酸菌、酪酸菌などの菌は<span style="color:blue;">加齢と共に減少</span></b>していきます。<br>
-                        なので、 <span style="color:red;font-weight: bold;">サプリメントを<span class="mk">毎日摂取する</span>のがおすすめ</span>です！
-                        <br><br>
-                        ですが、サプリメントによって品質はまちまち。<br>
-                        <span style="color:blue;font-weight: bold;">「乳酸菌が配合されていればなんでも同じ」って安易に選んで失敗したら意味がありません…。</span>
+                    <b>善玉菌を増やし、</b>
+                    <span style="color:red;font-weight: bold;" class="mk">“体内フローラ”のバランスを
+                        整えることがスッキリ美ボディや美容、健康のために大事</span>なのはもはや常識ですよね！
+                    <br><br>
+                    <b>“体内フローラ”を整えるビフィズス菌や乳酸菌、酪酸菌などの菌は<span style="color:blue;">加齢と共に減少</span></b>していきます。<br>
+                    なので、 <span style="color:red;font-weight: bold;">サプリメントを<span class="mk">毎日摂取する</span>のがおすすめ</span>です！
+                    <br><br>
+                    ですが、サプリメントによって品質はまちまち。<br>
+                    <span style="color:blue;font-weight: bold;">「菌が配合されていればなんでも同じ」って安易に選んで失敗したら意味がありません…。</span>
 
 
-                </div>
+                    </div>
 
                 <img src="./img/n_img/title_point_01-t_new.png" width="100%">
 
@@ -60,7 +60,7 @@
                   </li>
                   <li>
                     <strong>
-                      <img src="./img/n_img/point_a_03.png" art="">菌が胃で死滅せずに腸に届くようになっているか</strong>
+                      <img src="./img/n_img/point_a_03.png" art="">菌が胃で死滅せずに腸内へ届くようになっているか</strong>
                   </li>
                   <li>
                     <strong>
@@ -70,18 +70,18 @@
 
 
                 <div class="point_txt_top">
-                        <p>乳酸菌サプリメントを選ぶ際のポイントをまとめてみました。<br><br>
+                        <p>サプリメントを選ぶ際のポイントをまとめてみました。<br><br>
 
-                        上記の <span style="color:red;font-weight: bold;">４つのポイントを満たした乳酸菌サプリメントを選ぶのがおすすめ</span>です。<br><br>
+                        上記の <span style="color:red;font-weight: bold;">４つのポイントを満たしたサプリメントを選ぶのがおすすめ</span>です。<br><br>
                         
                         しかし、ドラッグストアやネット上で探せば<span style="color:blue;font-weight: bold;"><span class="mk">サプリメントは星の数ほど。</span></span><br><br>
                         <b>それをすべて自分で試すわけにはいきませんよね？</b><br>
                         どれが一番自分に合うのか調べるなんて難しいのが現実です。<br><br>
                         
                         そこで上記のチェック項目を元に<span style="color:red;font-weight: bold;">
-                        「本当に飲んで満足できる乳酸菌サプリメント」</span>を当サイトが独自調査しました。<br>
-                        調査の結果選ばれた<span class="mk" style="font-weight: bold;">利用者からの満足度が高い優良乳酸菌サプリメントを発表</span>いたしますので、<br>
-                        この中からs<span style="text-decoration: underline;font-weight: bold;">自分に合った乳酸菌サプリメントを選んでください。</span>
+                        「本当におすすめの体内フローラサポートサプリメント」</span>を当サイトが独自調査しました。<br>
+                        調査の結果選ばれた<span class="mk" style="font-weight: bold;">利用者からの満足度が高い優良サプリメントを発表</span>いたしますので、<br>
+                        この中から<span style="text-decoration: underline;font-weight: bold;">自分に合ったサプリメントを選んでください。</span>
                         <span style="color:blue;font-weight: bold;">
                         明日から変わり始めるあなたの健康生活のお手伝いをしてくれますので是非その満足度を体験してください！</span>
                         
@@ -96,7 +96,7 @@
               </div>
 
               <!--比較表START-->
-              <?php include_once('table-lakubi.php'); ?>
+              <?php include_once('table-lakubi-test.php'); ?>
               <!--比較表END-->
 
 
@@ -108,11 +108,11 @@
               <div class="ranking_all"></div>
 
               <div class="img-center">
-                <img src="./img/n_img/title_ranking_01-t_new.png" width="100%">
+                <img src="./img/n_img/ranking__top—tainai-3-pc-test.png" width="100%">
               </div>
               
 
-              <?php include_once('rank-test.php'); ?>
+              <?php include_once('rank-lakubi-test.php'); ?>
     
     
               <!--ランキングEND-->

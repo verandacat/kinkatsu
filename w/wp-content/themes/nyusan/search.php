@@ -169,6 +169,7 @@ if($ranking == "1"){
           'order' => 'desc',
           'post_status' => 'publish',
           'meta_key' => $metakey,
+          'post__not_in' => array(33),
       );
 }elseif($ranking == "2"){
       $args = array(
@@ -178,6 +179,7 @@ if($ranking == "1"){
           'order' => 'desc',
           'post_status' => 'publish',
           'meta_key' => $metakey,
+          'post__not_in' => array(33),
       );
 }elseif($ranking == ""){
     if(!empty($order) || !empty($metakey)){
@@ -187,12 +189,14 @@ if($ranking == "1"){
           'post_status' => 'publish',
           'order' => $order,
           'meta_key' => $metakey,
+          'post__not_in' => array(33),
       );
     }else{
       $args = array(
           'meta_query' => array($metaquerysp),
           'orderby' =>'meta_value_num',
           'post_status' => 'publish',
+          'post__not_in' => array(33),
       );
     }
 }
